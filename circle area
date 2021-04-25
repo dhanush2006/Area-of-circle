@@ -1,0 +1,4 @@
+rad=int(input("Enter the raidus of the circle:")
+area=rad*3.14*3.14
+print("Area of the circle of radius",rad,"is:",area)
+© 2021 GitHub, Inc.
